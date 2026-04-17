@@ -1,0 +1,6 @@
+def sub(a,b):
+    c=a-b
+    return c
+diff=sub(20,10)
+print("subtraction done")
+print("sub is:",diff)
